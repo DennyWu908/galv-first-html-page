@@ -1,9 +1,35 @@
+/* The css code doesn't seem to be working. Have I not linked this file to the html file correctly? */
 
-/* 
-	STYLE.CSS:
-	One stylesheet to rule them all.
-	
-	selector { property:value }
-	
-*/
+header {
+	height: 100px;
+	background-color: #403933;
+}
 
+header h2 {
+  margin: 0;
+  color: green;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  color: green;
+  font-family: Arial, sans-serif;
+}
+
+img { width: 100%; }
+
+.wrapper {
+  width: 600px;
+  margin: auto; 
+}
+
+a:link    { color: blue; } 
+a:visited { color: red;   } 
+a:hover   { color: green; } 
+a:active  { color: pink;  }
+ 
+main {
+}
+ 
+footer {
+}
