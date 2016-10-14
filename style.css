@@ -1,5 +1,3 @@
-/* The css code doesn't seem to be working. Have I not linked this file to the html file correctly? */
-
 header {
 	height: 100px;
 	background-color: #403933;
@@ -16,11 +14,12 @@ p {
   font-family: Arial, sans-serif;
 }
 
-img { width: 100%; }
+img { width: 50%; }
 
 .wrapper {
   width: 600px;
-  margin: auto; 
+  margin-left: 39%;
+  margin-bottom: 2%;
 }
 
 a:link    { color: blue; } 
